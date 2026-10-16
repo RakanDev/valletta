@@ -98,6 +98,11 @@ class ProductResource extends Resource
         return Forms\Components\FileUpload::make('path')
             ->hiddenLabel()
             ->image()
+            // Shrink photos in the browser before upload: ~5MB phone photo -> a few hundred KB
+            ->imageResizeMode('contain')
+            ->imageResizeTargetWidth('1600')
+            ->imageResizeTargetHeight('1600')
+            ->imageResizeUpscale(false)
             ->disk(Media::disk())
             ->directory('products')
             ->visibility('public')
