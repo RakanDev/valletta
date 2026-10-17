@@ -1,0 +1,60 @@
+{
+  "slug": "valletta-metro-backpack",
+  "sku": "T-B3184",
+  "dir": "metro",
+  "price": 25,
+  "dimensions": "28 × 19 × 44 cm",
+  "name": {
+    "ar": "TIGERNU Metro Backpack",
+    "en": "TIGERNU Metro Backpack"
+  },
+  "short": {
+    "ar": "حقيبة واحدة لكل مشاويرك: تصميم عصري وخفيف، فتحة واسعة، وقماش مقاوم للماء",
+    "en": "One bag for every outing: modern and light, with a wide opening and water-resistant fabric"
+  },
+  "description": {
+    "ar": "من الجامعة للمكتب للسفر، حقيبة TIGERNU مترو بتجمع الأناقة والعملية بنفس الوقت.\nمصنوعة من قماش أكسفورد مع طبقة TPU مقاومة للماء، فأغراضك بتضل ناشفة حتى بمطر عمّان المفاجئ. فتحتها الواسعة بتخليكِ تشوفي كل أغراضك مرة وحدة، وتقسيماتها الداخلية بتريّحك من الدوّارة.",
+    "en": "From university to the office to travel, the TIGERNU Metro brings elegance and practicality together.\nMade of Oxford fabric with a water-resistant TPU layer, it keeps your things dry even in a sudden Amman shower. Its wide opening lets you see everything at once, and the inner compartments keep you organised."
+  },
+  "features": {
+    "ar": "قماش أكسفورد + TPU مقاوم للماء\nالسعة حوالي 23 لتر\nفتحة واسعة جداً\nجيب مبطّن للابتوب حتى 15.6 إنش\nجيب داخلي للتلفون وجيب بسحّاب للمصاري والهويات\nجيب أمامي بسحّاب وجيب بغطاء وإبزيم\nظهر منحني مريح يوزّع الوزن\nمقابض يد طرية",
+    "en": "Oxford fabric + water-resistant TPU\nCapacity about 23 L\nExtra-wide opening\nPadded laptop compartment up to 15.6\"\nInner phone pocket and zipped pocket for cash and cards\nFront zip pocket and buckled flap pocket\nCurved ergonomic back that spreads the weight\nSoft carry handles"
+  },
+  "variants": [
+    [
+      "أسود",
+      "Black",
+      "#1f1f1f",
+      4,
+      [
+        "black.webp",
+        "lifestyle-black.webp",
+        "waterproof.webp"
+      ]
+    ],
+    [
+      "عنابي",
+      "Burgundy",
+      "#7a1f4a",
+      4,
+      [
+        "burgundy.webp",
+        "lifestyle-burgundy.webp"
+      ]
+    ],
+    [
+      "كحلي",
+      "Navy",
+      "#2c3e66",
+      8,
+      [
+        "navy.webp",
+        "lifestyle-navy.webp"
+      ]
+    ]
+  ],
+  "general": [
+    "inside.webp",
+    "packed.webp"
+  ]
+}

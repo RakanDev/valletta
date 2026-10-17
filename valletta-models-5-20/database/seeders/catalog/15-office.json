@@ -1,0 +1,26 @@
+{
+  "slug": "valletta-office-backpack",
+  "sku": "A9898",
+  "dir": "office",
+  "price": 18,
+  "dimensions": "",
+  "name": {"ar": "Valletta Office Backpack", "en": "Valletta Office Backpack"},
+  "short": {
+    "ar": "رفيقتك من المحاضرة للمكتب: شنطة ظهر نحيفة وأنيقة بجيب مبطن للابتوب، مقاومة للماء، ووزنها 850 غرام.",
+    "en": "From lecture hall to office: a slim, elegant backpack with a padded laptop sleeve, water-resistant, weighing 850 g."
+  },
+  "description": {
+    "ar": "حقيبة ظهر عملية وأنيقة مصممة للطالبة والموظفة، بتحمل يومك الطويل من الجامعة للشغل. تصميم Business Minimal بيليق على لبس الجامعة ولبس الشغل.\n\nمن نايلون عالي الجودة مقاوم للماء، بتحمي لابتوبك وكتبك بأيام الشتاء بعمّان. مثالية للجامعة، الشغل، كافيه الدراسة، أو السفر القصير.",
+    "en": "A practical, elegant backpack for students and working women, built for long days from campus to the office. Its minimal business look fits both university and work outfits.\n\nMade from premium water-resistant nylon to protect your laptop and books on Amman's winter days. Perfect for university, work, study cafés or short trips."
+  },
+  "features": {
+    "ar": "جيب داخلي مبطن للابتوب + جيوب منظمة للكتب والباور بانك والدفاتر\nجيب أمامي كبير بسحاب\nنايلون عالي الجودة مقاوم للماء مع بطانة بوليستر\nحمالات عريضة مبطنة بتهوية\nيدين علويتين ناعمتين للحمل\nتصميم نحيف مرتب بيليق للجامعة والشغل\nالوزن: 850 غرام",
+    "en": "Padded inner laptop sleeve + organizer pockets for books, power bank and notebooks\nLarge front zip pocket\nPremium water-resistant nylon with polyester lining\nWide padded, breathable straps\nTwo soft top handles\nSlim, polished design for campus and work\nWeight: 850 g"
+  },
+  "variants": [
+    ["زهري فاتح", "Light Pink", "#E3CDD3", 5, ["pink", "lifestyle-pink", "inside-pink"]],
+    ["رمادي فاتح", "Light Grey", "#BDBCC0", 5, ["grey", "lifestyle-grey"]],
+    ["بيج مع بني", "Beige with tan", "#E8E1D6", 5, ["beige", "lifestyle-beige", "beige-angle", "back-beige"]]
+  ],
+  "general": ["inside", "water", "back"]
+}

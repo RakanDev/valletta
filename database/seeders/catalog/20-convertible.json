@@ -1,0 +1,52 @@
+{
+  "slug": "valletta-convertible-tote-backpack",
+  "sku": "VL-020",
+  "dir": "convertible",
+  "price": 18,
+  "dimensions": "30 × 11 × 36 cm",
+  "name": {
+    "ar": "Valletta Convertible 3-in-1 Bag",
+    "en": "Valletta Convertible 3-in-1 Bag"
+  },
+  "short": {
+    "ar": "توت، شنطة ظهر، أو على الكتف: حقيبة وحدة بثلاث طرق حمل لكل يومك",
+    "en": "Tote, backpack or shoulder bag: one bag, three ways to carry, for your whole day"
+  },
+  "description": {
+    "ar": "حقيبة فاليتا مصممة للمرأة اللي بتتنقل بين الدوام والجامعة والسفر بدون ما تغيّر شنطتها. ستايل مينيمال راقي من برّا، ومن جوا كل شي منظّم لدرجة رح تنسي الفوضى.\nاحمليها توت بإيدك، أو شنطة ظهر، أو على كتفك، حسب مزاجك ولبسك.",
+    "en": "The Valletta Convertible is designed for women who move between work, university and travel without changing bags. Clean, minimal and elegant outside, perfectly organised inside.\nCarry it as a tote, a backpack or on your shoulder, depending on your mood and outfit."
+  },
+  "features": {
+    "ar": "3 طرق للحمل: توت، شنطة ظهر، أو على الكتف\nجيب مبطّن للابتوب حتى 15.6 إنش\nجيب داخلي بسحّاب وجيوب للموبايل والبطاقات\nجيب أمامي بسحّاب مزدوج\nجيبان جانبيان\nقماش أكسفورد خفيف ومتين مع بطانة بوليستر ناعمة\nسحّابات معدنية قوية\nأحزمة كتف منحنية مريحة ومقابض ناعمة",
+    "en": "3 ways to carry: tote, backpack or shoulder bag\nPadded laptop sleeve up to 15.6\"\nInner zip pocket plus phone and card pockets\nFront double-zip pocket\nTwo side pockets\nLight, durable Oxford fabric with a soft polyester lining\nStrong metal zippers\nCurved comfortable shoulder straps and soft handles"
+  },
+  "variants": [
+    [
+      "تركوازي وأوف وايت",
+      "Teal & Off-white",
+      "#1b8a9a",
+      8,
+      [
+        "teal.webp",
+        "teal-2.webp",
+        "lifestyle-teal.webp"
+      ]
+    ],
+    [
+      "أسود",
+      "Black",
+      "#151515",
+      6,
+      [
+        "black.webp",
+        "black-2.webp",
+        "lifestyle-black.webp"
+      ]
+    ]
+  ],
+  "general": [
+    "side.webp",
+    "size.webp",
+    "duo.webp"
+  ]
+}

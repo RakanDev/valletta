@@ -1,0 +1,27 @@
+{
+  "slug": "valletta-vintage-backpack",
+  "sku": "MAH-SOFTPACK",
+  "dir": "vintage",
+  "price": 14,
+  "dimensions": "33 × 26 × 12 cm",
+  "name": {"ar": "Valletta Vintage Backpack", "en": "Valletta Vintage Backpack"},
+  "short": {
+    "ar": "شنطة ظهر كلاسيك 3 في 1 من جلد PU الناعم: ظهر، كتف، أو يد. بـ 4 ألوان.",
+    "en": "A classic 3-in-1 backpack in soft PU leather: backpack, shoulder bag or handbag. In 4 colors."
+  },
+  "description": {
+    "ar": "شنطة ظهر بتجمع بين الأناقة الكلاسيكية والعملية اليومية، مصممة للمرأة العصرية في الأردن: للجامعة، الشغل، أو السفر الخفيف. هي خيارك الأول لإطلالة كلاسيك أنيقة بدون ما تضحي بالراحة.\n\nمصنوعة من جلد PU بملمس ناعم ومقاوم، مع بطانة بوليستر بتحمي أغراضك. خفيفة، وبتليق مع كل لبسك، من الجينز والكاجوال لحد اللبس الكلاسيك.",
+    "en": "A backpack that blends classic elegance with everyday practicality, designed for the modern woman in Jordan: for university, work or light travel. Your first pick for a polished classic look without giving up comfort.\n\nMade from soft, durable PU leather with a polyester lining to protect your things. Light, and it goes with every outfit, from jeans and casual to classic looks."
+  },
+  "features": {
+    "ar": "3 في 1: احمليها على ظهرك، على كتفك بالحمالة، أو باليد\nجلد PU ناعم ومقاوم مع بطانة بوليستر\nجيب هاتف داخلي + جيب داخلي بسحاب\nجيبين جانبيين خارجيين\nسحاب مزدوج متين\nبتوسع تابلت أو آيباد ومجلة/كتب A4\nالسعة: أقل من 20 لتر\nخفيفة: 480 غرام",
+    "en": "3-in-1: wear it as a backpack, on your shoulder with the strap, or carry it by hand\nSoft, durable PU leather with polyester lining\nInner phone pocket + inner zip pocket\nTwo outer side pockets\nDurable double zipper\nFits a tablet or iPad and A4 magazines/books\nCapacity: under 20 L\nLightweight: 480 g"
+  },
+  "variants": [
+    ["بني", "Brown", "#8A4F24", 3, ["brown", "lifestyle-brown"]],
+    ["خمري", "Burgundy", "#6E1626", 4, ["burgundy", "lifestyle-burgundy"]],
+    ["أزرق", "Blue", "#2F5A78", 2, ["blue", "lifestyle-blue"]],
+    ["أخضر زيتي", "Olive Green", "#3E4A2A", 2, ["green", "lifestyle-green"]]
+  ],
+  "general": ["inside", "size"]
+}

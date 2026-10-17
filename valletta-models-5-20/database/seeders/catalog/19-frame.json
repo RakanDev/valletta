@@ -1,0 +1,61 @@
+{
+  "slug": "valletta-frame-backpack",
+  "sku": "VL-019",
+  "dir": "anna",
+  "price": 16,
+  "dimensions": "27 × 17 × 40 cm",
+  "name": {
+    "ar": "Valletta Frame Backpack",
+    "en": "Valletta Frame Backpack"
+  },
+  "short": {
+    "ar": "حقيبة خفيفة بفتحة واسعة على شكل إطار، 7 جيوب وجيب سري خلفي",
+    "en": "A light backpack with a wide frame opening, 7 pockets and a hidden back pocket"
+  },
+  "description": {
+    "ar": "حقيبة يومية خفيفة (حوالي 600 غرام) بتصميم الإطار المعدني اللي بيفتح على وسعه، فبتشوفي كل أغراضك بنظرة وحدة.\nمصنوعة من نايلون خفيف مقاوم للماء، وفيها 7 جيوب منها جيب سري بسحّاب مخفي على الظهر لأغراضك المهمة. مثالية للجامعة والمشاوير اليومية.",
+    "en": "A light everyday backpack (about 600 g) with a wide frame opening, so you can see everything inside at a glance.\nMade of light water-resistant nylon, it has 7 pockets, including a hidden zip pocket on the back for your valuables. Perfect for university and everyday outings."
+  },
+  "features": {
+    "ar": "فتحة واسعة على شكل إطار\nنايلون خفيف مقاوم للماء\n7 جيوب بالمجمل\nجيب سري بسحّاب مخفي على الظهر\nجيبان جانبيان لقنينة المي أو الشمسية\nجيب أمامي بسحّاب\nجيبان مفتوحان وجيب شبك وجيب آمن من جوا\nظهر مبطّن وأحزمة كتف قابلة للتعديل\nالسعة حوالي 16–17 لتر",
+    "en": "Wide frame opening\nLight water-resistant nylon\n7 pockets in total\nHidden zip pocket on the back\nTwo side pockets for a water bottle or umbrella\nFront zip pocket\nTwo open pockets, a mesh pocket and a secure pocket inside\nPadded back and adjustable shoulder straps\nCapacity about 16–17 L"
+  },
+  "variants": [
+    [
+      "مرجاني",
+      "Coral",
+      "#e0574a",
+      4,
+      [
+        "coral.webp",
+        "coral-room.webp",
+        "lifestyle-coral.webp"
+      ]
+    ],
+    [
+      "زيتي وأوف وايت",
+      "Olive & Off-white",
+      "#5b6b3a",
+      3,
+      [
+        "olive.webp",
+        "lifestyle-olive.webp"
+      ]
+    ],
+    [
+      "كحلي",
+      "Navy",
+      "#1f2a44",
+      2,
+      [
+        "navy.webp",
+        "navy-room.webp",
+        "lifestyle-navy.webp"
+      ]
+    ]
+  ],
+  "general": [
+    "inside.webp",
+    "back.webp"
+  ]
+}

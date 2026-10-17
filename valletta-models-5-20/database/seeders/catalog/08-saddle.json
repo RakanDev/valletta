@@ -1,0 +1,29 @@
+{
+  "slug": "valletta-saddle-backpack",
+  "sku": "CS1004",
+  "dir": "saddle",
+  "price": 18,
+  "dimensions": "31 × 24 × 11 cm",
+  "name": {"ar": "Valletta Saddle Backpack", "en": "Valletta Saddle Backpack"},
+  "short": {
+    "ar": "شنطة ظهر أنيقة بغطاء وإبزيم معدني، سحابها الرئيسي من ورا ضد السرقة. بـ 6 ألوان.",
+    "en": "An elegant flap backpack with a metal buckle and an anti-theft main zipper at the back. In 6 colors."
+  },
+  "description": {
+    "ar": "شنطة ظهر عملية وأنيقة مصممة لطالبة الجامعة والمرأة العصرية. بتجمع بين الفخامة والعملية، بستايل بسيط بلون سادة بيليق مع كل شي.\n\nالسحاب الرئيسي من ورا بين الحمالات، يعني ما حدا بيقدر يفتحها وهي على ظهرك. خفيفة، متينة، ومثالية للجامعة، الشغل، والسفر الخفيف.",
+    "en": "A practical, elegant backpack designed for university students and modern women. Refined yet practical, in a simple solid-color style that goes with everything.\n\nThe main zipper sits at the back between the straps, so no one can open it while it's on your back. Light, durable and perfect for university, work and light travel."
+  },
+  "features": {
+    "ar": "تصميم ضد السرقة: السحاب الرئيسي من ورا\nجلد صناعي PU فاخر بملمس ناعم\nغطاء أمامي بإبزيم معدني أنيق\nجيب أمامي بسحاب + جيوب جانبية\nمن جوا: جيب للموبايل + جيب بسحاب + مقصورة رئيسية\nجيب خلفي بسحاب\nحمالات مبطنة وظهر طري مريح\nبتوسع تابلت أو آيباد، دفاتر، ومطرة مي",
+    "en": "Anti-theft design: main zipper at the back\nPremium soft-touch PU leather\nFront flap with an elegant metal buckle\nFront zip pocket + side pockets\nInside: phone pocket + zip pocket + main compartment\nBack zip pocket\nPadded straps and a soft, comfortable back\nFits a tablet or iPad, notebooks and a water bottle"
+  },
+  "variants": [
+    ["أسود", "Black", "#141414", 6, ["black", "lifestyle-black"]],
+    ["بني", "Brown", "#7A4A26", 5, ["brown", "lifestyle-brown"]],
+    ["كحلي", "Navy", "#1E2236", 5, ["navy"]],
+    ["خمري", "Burgundy", "#6B1A2A", 3, ["burgundy", "lifestyle-burgundy"]],
+    ["موف", "Lilac", "#9B7BA6", 3, ["purple", "lifestyle-purple"]],
+    ["أزرق", "Blue", "#4A6A86", 3, ["blue", "lifestyle-blue"]]
+  ],
+  "general": ["inside", "back", "size"]
+}

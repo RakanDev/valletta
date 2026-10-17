@@ -1,0 +1,69 @@
+{
+  "slug": "valletta-scholar-backpack",
+  "sku": "VL-016",
+  "dir": "scholar",
+  "price": 22,
+  "dimensions": "43 × 29 × 13.5 cm",
+  "name": {
+    "ar": "Valletta Scholar Backpack",
+    "en": "Valletta Scholar Backpack"
+  },
+  "short": {
+    "ar": "شنطة ظهر فينتج بغطاء وأحزمة جلد، بأقسام كثيرة وجيوب منظمة. عملية، أنيقة، وبتشيل كل شي.",
+    "en": "A vintage flap backpack with leather straps and plenty of organized compartments. Practical, stylish and fits everything."
+  },
+  "description": {
+    "ar": "مصممة لطالبات الجامعة، للسفر، وللاستخدام اليومي. بتجمع بين ستايل الفينتج الكلاسيكي والعملية، بغطاء أمامي وأحزمة من الجلد الصناعي.\n\nمساحة واسعة منظمة لكتبك ودفاترك وأغراضك، وبتليق مع لبس الجامعة والكاجوال.",
+    "en": "Designed for university students, travel and everyday use. It blends classic vintage style with practicality, with a front flap and faux-leather straps.\n\nRoomy, organized space for your books, notebooks and essentials, and it suits both campus and casual looks."
+  },
+  "features": {
+    "ar": "أقسام كثيرة: مقصورة رئيسية + جيب للتابلت + جيوب أمامية بسحاب + جيب داخلي بسحاب\nجيبين جانبيين لمطرة المي\nقماش متين مقاوم للماء مع تفاصيل جلد صناعي\nحمالات مبطنة قابلة للتعديل\nبتوسع كتب، دفاتر، تابلت، وأغراضك اليومية",
+    "en": "Lots of compartments: main compartment + tablet sleeve + front zip pockets + inner zip pocket\nTwo side bottle pockets\nDurable water-resistant fabric with faux-leather details\nPadded adjustable straps\nFits books, notebooks, a tablet and your daily essentials"
+  },
+  "variants": [
+    [
+      "رمادي غامق",
+      "Dark Grey",
+      "#3A3D42",
+      7,
+      [
+        "darkgrey",
+        "lifestyle-darkgrey"
+      ]
+    ],
+    [
+      "رمادي فاتح",
+      "Light Grey",
+      "#8E8F92",
+      5,
+      [
+        "lifestyle-grey"
+      ]
+    ],
+    [
+      "أزرق جينز",
+      "Denim Blue",
+      "#4D7096",
+      5,
+      [
+        "lifestyle-blue"
+      ]
+    ],
+    [
+      "خمري",
+      "Burgundy",
+      "#7A1830",
+      5,
+      [
+        "burgundy",
+        "lifestyle-burgundy"
+      ]
+    ]
+  ],
+  "general": [
+    "size",
+    "inside",
+    "pockets",
+    "back"
+  ]
+}

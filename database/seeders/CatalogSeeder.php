@@ -16,7 +16,7 @@ class CatalogSeeder extends Seeder
 {
     public function run(): void
     {
-        foreach ($this->catalog() as $i => $p) {
+        foreach ([...$this->catalog(), ...$this->jsonCatalog()] as $i => $p) {
             if (Product::where('slug', $p['slug'])->exists()) {
                 continue;
             }
@@ -54,10 +54,25 @@ class CatalogSeeder extends Seeder
 
     private function upload(string $dir, string $file): string
     {
+        $file = preg_replace('/\.webp$/', '', $file);
         $target = "products/{$dir}/{$file}.webp";
         Storage::disk(Media::disk())->put($target, file_get_contents(__DIR__."/images/{$dir}/{$file}.webp"), 'public');
 
         return $target;
+    }
+
+    /** Additional models, one JSON file each in database/seeders/catalog. */
+    private function jsonCatalog(): array
+    {
+        $files = glob(__DIR__.'/catalog/*.json') ?: [];
+        sort($files);
+
+        return array_map(function (string $f) {
+            $p = json_decode(file_get_contents($f), true, flags: JSON_THROW_ON_ERROR);
+            $p['dimensions'] = ($p['dimensions'] ?? '') !== '' ? $p['dimensions'] : null;
+
+            return $p;
+        }, $files);
     }
 
     private function catalog(): array

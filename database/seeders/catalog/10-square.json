@@ -1,0 +1,25 @@
+{
+  "slug": "valletta-square-backpack",
+  "sku": "613",
+  "dir": "square",
+  "price": 14,
+  "dimensions": "33 × 32 × 15 cm",
+  "name": {"ar": "Valletta Square Backpack", "en": "Valletta Square Backpack"},
+  "short": {
+    "ar": "شنطة الظهر اليومية بتصميم مربع مينيمال، من قماش Oxford المقاوم للماء، وفتحتها من ورا ضد السرقة.",
+    "en": "The everyday backpack in a minimal square design, made from water-resistant Oxford fabric, with an anti-theft back opening."
+  },
+  "description": {
+    "ar": "شنطة Valletta مصممة للبنت الجامعية والشغل اليومي. خفيفة، عملية، وبتحمل كل شي بدك ياه بدون ما تكون ضخمة.\n\nتصميمها المربع المينيمال بيليق مع أي لبس جامعة أو شغل، والسحاب الرئيسي من ورا على ظهرك، فما حدا بيقدر يفتحها وانتِ ماشية.",
+    "en": "The Valletta backpack is designed for university and everyday work. Light, practical and carries everything you need without the bulk.\n\nIts minimal square design goes with any campus or work outfit, and the main zipper sits at the back against your body, so no one can open it while you walk."
+  },
+  "features": {
+    "ar": "تصميم ضد السرقة: فتحة الشنطة الرئيسية من ورا\nقماش Oxford قوي مقاوم للماء والخدش\nبطانة بوليستر ناعمة بتحمي أغراضك\nجيب داخلي بسحاب بالغطاء\nجيبين جانبيين\nبتوسع كتب، تابلت، شاحن، وكل أغراضك اليومية\nحمالات قابلة للتعديل + يد علوية ناعمة\nخفيفة: 600 غرام",
+    "en": "Anti-theft design: main opening at the back\nStrong Oxford fabric, water- and scratch-resistant\nSoft polyester lining that protects your things\nInner zip pocket in the lid\nTwo side pockets\nFits books, a tablet, a charger and all your daily essentials\nAdjustable straps + soft top handle\nLightweight: 600 g"
+  },
+  "variants": [
+    ["رمادي مع بيج", "Grey with tan", "#8E8A88", 5, ["grey", "lifestyle-grey"]],
+    ["أسود", "Black", "#141414", 10, ["black"]]
+  ],
+  "general": ["back", "inside", "size"]
+}

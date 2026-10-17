@@ -1,0 +1,26 @@
+{
+  "slug": "valletta-tote-backpack",
+  "sku": "2703",
+  "dir": "tote",
+  "price": 20,
+  "dimensions": "40 × 26 × 12 cm",
+  "name": {"ar": "Valletta Tote Backpack", "en": "Valletta Tote Backpack"},
+  "short": {
+    "ar": "شنطة واحدة لكل يوم: تصميم عصري بيدين للحمل، جيب مبطن للتابلت أو اللابتوب الصغير، ومقاومة للماء.",
+    "en": "One bag for every day: a modern design with tote handles, a padded tablet/small-laptop sleeve, and water resistance."
+  },
+  "description": {
+    "ar": "رفيقتك المثالية كل يوم. بتجمع بين العملية والستايل، مع مساحة منظمة بتتسع لكل اللي بتحتاجيه بدون فوضى.\n\nمن قماش Oxford المقاوم للماء، بتحمي أغراضك من المطر المفاجئ، وتصميمها العصري بيمشي مع كل لبساتك، من الجامعة للمكتب.",
+    "en": "Your perfect everyday companion. Practical and stylish, with organized space for everything you need, no mess.\n\nMade from water-resistant Oxford fabric to protect your things from surprise showers, and its modern design goes with every outfit, from campus to the office."
+  },
+  "features": {
+    "ar": "جيب مستقل مبطن للتابلت أو اللابتوب الصغير\nمقصورتين: وحدة لأغراضك ووحدة للأوراق والكتب\nجيب أمامي بسحاب + جيبين جانبيين لمطرة المي\nجيب للبطاقات على الحمالة\nقماش Oxford مقاوم للماء مع بطانة بوليستر\nحمالات مبطنة بتهوية + يدين علويتين للحمل\nالوزن: 800 غرام",
+    "en": "Separate padded sleeve for a tablet or small laptop\nTwo compartments: one for essentials, one for papers and books\nFront zip pocket + two side bottle pockets\nCard slot on the strap\nWater-resistant Oxford fabric with polyester lining\nPadded breathable straps + twin top handles\nWeight: 800 g"
+  },
+  "variants": [
+    ["زهري", "Pink", "#C99AA8", 5, ["pink", "lifestyle-pink"]],
+    ["أسود", "Black", "#141414", 6, ["black", "lifestyle-black"]],
+    ["أوف وايت مع بني", "Off-white with tan", "#ECE6DA", 5, ["beige", "lifestyle-beige"]]
+  ],
+  "general": ["all-colors", "inside", "pockets", "back", "size"]
+}

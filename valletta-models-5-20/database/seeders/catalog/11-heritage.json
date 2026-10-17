@@ -1,0 +1,25 @@
+{
+  "slug": "valletta-heritage-backpack",
+  "sku": "MWB078",
+  "dir": "heritage",
+  "price": 14,
+  "dimensions": "33 × 32 × 15 cm",
+  "name": {"ar": "Valletta Heritage Backpack", "en": "Valletta Heritage Backpack"},
+  "short": {
+    "ar": "شنطة ظهر بلمسة فينتج من جلد PU الناعم، بـ 3 أقسام بسحاب وتعليقة دبدوب هدية 🎁",
+    "en": "A vintage-touch backpack in soft PU leather, with 3 zip compartments and a free teddy bear charm 🎁"
+  },
+  "description": {
+    "ar": "شنطة الظهر العملية والأنيقة من Valletta، مصممة للطالبة والمرأة العصرية في الأردن. بتجمع بين الستايل الكلاسيكي والراحة اليومية، وبتليق مع كل لبس جامعة أو كاجوال.\n\nمثالية للجامعة، الشغل، السفر الخفيف، والطلعات اليومية.",
+    "en": "A practical, elegant Valletta backpack designed for students and modern women in Jordan. It blends classic style with everyday comfort and goes with any campus or casual outfit.\n\nPerfect for university, work, light travel and everyday outings."
+  },
+  "features": {
+    "ar": "تعليقة دبدوب هدية مع كل شنطة\nجلد صناعي PU ناعم، مقاوم للخدش والماء الخفيف\nمنظمة: 3 أقسام بسحاب + جيوب داخلية\nجيب خلفي بسحاب للأغراض المهمة\nجيوب جانبية لمطرة المي\nبتوسع كتب A4، تابلت، وكل أغراضك اليومية\nحمالات عريضة قابلة للتعديل + يد علوية\nخفيفة: 400 غرام",
+    "en": "Free teddy bear charm with every bag\nSoft PU leather, scratch- and splash-resistant\nOrganized: 3 zip compartments + inner pockets\nBack zip pocket for your valuables\nSide pockets for a water bottle\nFits A4 books, a tablet and all your daily essentials\nWide adjustable straps + top handle\nLightweight: 400 g"
+  },
+  "variants": [
+    ["بني عتيق", "Antique Brown", "#4A2A1E", 3, ["brown", "lifestyle-brown", "lifestyle-brown-2", "lifestyle-brown-3", "lifestyle-brown-4"]],
+    ["أسود", "Black", "#141414", 2, ["black", "lifestyle-black", "lifestyle-black-2", "lifestyle-black-3"]]
+  ],
+  "general": ["side", "back", "size"]
+}

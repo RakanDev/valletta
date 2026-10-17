@@ -1,0 +1,28 @@
+{
+  "slug": "valletta-daily-backpack",
+  "sku": "L012",
+  "dir": "daily",
+  "price": 10,
+  "dimensions": "32 × 27 × 13 cm",
+  "name": {"ar": "Valletta Daily Backpack", "en": "Valletta Daily Backpack"},
+  "short": {
+    "ar": "خلي يومك أخف: شنطة ظهر خفيفة جداً من النايلون المقاوم للماء، بـ 5 ألوان سادة.",
+    "en": "Make your day lighter: an ultra-light backpack in water-resistant nylon, in 5 solid colors."
+  },
+  "description": {
+    "ar": "تعريف البساطة العملية. مصنوعة من نايلون عالي الجودة مقاوم للماء وخفيف جداً، مع بطانة بوليستر داخلية بتحافظ على أغراضك.\n\nلون سادة أنيق بيليق مع كل لبس، صيفي وشتوي، وبتحمي كتبك من مطر عمّان المفاجئ. مثالية للجامعة، الدوام، السفر الخفيف، والطلعات اليومية.",
+    "en": "The definition of practical simplicity. Made from premium, ultra-light water-resistant nylon with a polyester lining that keeps your things safe.\n\nAn elegant solid color that goes with every outfit, summer and winter, and keeps your books dry in Amman's surprise showers. Perfect for university, work, light travel and everyday outings."
+  },
+  "features": {
+    "ar": "خفيفة جداً: ما رح تحسي فيها على ظهرك\nنايلون مقاوم للماء مع بطانة بوليستر\nجيب أمامي بسحاب للفلوس والموبايل\nجيبين جانبيين مطاطيين لمطرة المي\nبتوسع تابلت، كتب، ودفاتر\nحمالات قابلة للتعديل + يد علوية\nلون سادة بيليق مع كل لبس",
+    "en": "Ultra-light: you'll barely feel it on your back\nWater-resistant nylon with polyester lining\nFront zip pocket for cash and your phone\nTwo elastic side pockets for a water bottle\nFits a tablet, books and notebooks\nAdjustable straps + top handle\nA solid color that goes with every outfit"
+  },
+  "variants": [
+    ["أسود", "Black", "#141414", 4, ["black", "lifestyle-black", "worn-black"]],
+    ["كحلي", "Navy", "#1F2A55", 4, ["navy", "lifestyle-navy"]],
+    ["خمري", "Burgundy", "#8A1E2B", 4, ["burgundy", "lifestyle-burgundy", "worn-burgundy"]],
+    ["رمادي", "Grey", "#B9B6BC", 3, ["lifestyle-grey"]],
+    ["نعناعي", "Mint", "#9FD3C7", 3, ["mint", "worn-mint"]]
+  ],
+  "general": ["size"]
+}

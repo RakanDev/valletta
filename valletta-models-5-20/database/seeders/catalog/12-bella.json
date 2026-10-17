@@ -1,0 +1,25 @@
+{
+  "slug": "valletta-bella-backpack",
+  "sku": "1658",
+  "dir": "bella",
+  "price": 16,
+  "dimensions": "34 × 32 × 17 cm",
+  "name": {"ar": "Valletta Bella Backpack", "en": "Valletta Bella Backpack"},
+  "short": {
+    "ar": "شنطة ظهر كلاسيك بغطاء وسحابات فضية، مصممة للبنت اللي بدها كل شي بمكان واحد. جلد PU طري ومقاوم للمي.",
+    "en": "A classic flap backpack with silver zippers, designed for the girl who wants everything in one place. Soft, water-resistant PU leather."
+  },
+  "description": {
+    "ar": "شنطة عملية وأنيقة بنفس الوقت، بتصميم مستوحى من الستايل الأوروبي القديم بلمسة عصرية. جلد صناعي طري بملمس ناعم، مقاوم للمي، وخفيف على الظهر.\n\nبتساع كل أغراضك اليومية للجامعة، الشغل، أو السفر. بلونين أساسيين: الأسود الكلاسيكي والبني الفينتج.",
+    "en": "Practical and elegant at the same time, with a design inspired by old European style and a modern touch. Soft faux leather, water-resistant and light on your back.\n\nFits all your daily essentials for university, work or travel. In two essential colors: classic black and vintage brown."
+  },
+  "features": {
+    "ar": "جيوب كثيرة: سحاب على الغطاء + جيبين أماميين بسحاب + جيب خلفي بسحاب\nجيبين جانبيين مطاطيين\nمن جوا: جيب للموبايل + جيب بسحاب + مقصورة كبيرة للكتب أو التابلت\nجلد صناعي PU فاخر، ناعم ومقاوم للخدش والمطر الخفيف\nحمالات قابلة للتعديل + يد علوية للحمل\nخفيفة ومتينة، بتتحمل الاستخدام اليومي",
+    "en": "Lots of pockets: zip on the flap + two front zip pockets + back zip pocket\nTwo elastic side pockets\nInside: phone pocket + zip pocket + a large compartment for books or a tablet\nPremium PU leather, soft, scratch- and splash-resistant\nAdjustable straps + top carry handle\nLight and durable for everyday use"
+  },
+  "variants": [
+    ["بني فينتج", "Vintage Brown", "#9A4E22", 5, ["brown", "lifestyle-brown", "brown-angle"]],
+    ["أسود", "Black", "#141414", 5, ["black", "lifestyle-black", "black-2"]]
+  ],
+  "general": ["top", "back"]
+}

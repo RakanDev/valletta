@@ -1,0 +1,26 @@
+{
+  "slug": "valletta-city-backpack",
+  "sku": "BNT-DB21081301",
+  "dir": "city",
+  "price": 12,
+  "dimensions": "31 × 25 × 13 cm",
+  "name": {"ar": "Valletta City Backpack", "en": "Valletta City Backpack"},
+  "short": {
+    "ar": "شنطة ظهر صغيرة وخفيفة من النايلون المقاوم للماء، مع تعليقة دبدوب هدية 🎁",
+    "en": "A light, compact backpack in water-resistant nylon, with a free teddy bear charm 🎁"
+  },
+  "description": {
+    "ar": "شنطة ظهر عملية مصممة لطالبات الجامعة والاستخدام اليومي في الأردن. بتجمع بين الأناقة والعملية بحجم مدمج ووزن خفيف.\n\nبتوسع كل أساسيات يومك: تابلت، دفترين، مطرة مي، باور بانك، سماعات ومقلمة. مناسبة للجامعة، الدوام، الكافيهات، والسفر الخفيف.",
+    "en": "A practical backpack designed for university students and everyday life in Jordan. Elegant and practical, compact and lightweight.\n\nFits all your daily essentials: a tablet, two notebooks, a water bottle, a power bank, earphones and a pencil case. Perfect for university, work, cafés and light travel."
+  },
+  "features": {
+    "ar": "تعليقة دبدوب هدية مع كل شنطة\nنايلون عالي الجودة مقاوم للماء مع بطانة بوليستر\nبتوسع تابلت حتى 11 إنش وكتب A4 (مش لابتوب)\nالسعة: أقل من 22 لتر، عملية بدون ما تكون ضخمة\nحمالات مبطنة مريحة وظهر طري للاستخدام الطويل\nسحاب مزدوج متين",
+    "en": "Free teddy bear charm with every bag\nPremium water-resistant nylon with polyester lining\nFits a tablet up to 11\" and A4 books (not a laptop)\nCapacity: under 22 L, roomy without the bulk\nPadded straps and a soft back for all-day comfort\nDurable double zipper"
+  },
+  "variants": [
+    ["أسود", "Black", "#161616", 6, ["black", "lifestyle-black"]],
+    ["خمري", "Burgundy", "#7A1B2D", 4, ["burgundy", "lifestyle-burgundy"]],
+    ["رمادي", "Grey", "#9C9C98", 4, ["grey", "lifestyle-grey"]]
+  ],
+  "general": ["inside-full", "inside"]
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "valletta-urban-backpack",
+  "sku": "VL-013",
+  "dir": "urban",
+  "price": 15,
+  "dimensions": "41 × 32 × 13 cm",
+  "name": {"ar": "Valletta Urban Backpack", "en": "Valletta Urban Backpack"},
+  "short": {
+    "ar": "شنطة ظهر عملية بمساحة كبيرة و6 جيوب، للجامعة والسفر اليومي. خفيفة، مريحة، ومقاومة للماء.",
+    "en": "A roomy, practical backpack with 6 pockets for university and everyday travel. Light, comfortable and water-resistant."
+  },
+  "description": {
+    "ar": "مساحة كبيرة بتنظيم ذكي: 6 جيوب موزعة بحيث يكون لكل شي مكانه، من الكتب والدفاتر لأغراض الجيم.\n\nمصنوعة من قماش Oxford القوي المقاوم للماء والتمزق، والحمالات مبطنة ومريحة حتى لو مليتيها عالآخر، وظهرها بتهوية عشان ما تعرقي. بتكمل ستايلك الكاجوال بالجامعة أو بشوارع عمّان.",
+    "en": "Lots of space, smartly organized: 6 pockets so everything has its place, from books and notebooks to your gym kit.\n\nMade from strong water- and tear-resistant Oxford fabric, with padded straps that stay comfortable even when it's full, and a breathable mesh back. Completes your casual look on campus or around Amman."
+  },
+  "features": {
+    "ar": "6 جيوب: أمامي، علوي بالغطاء، خلفي مخفي للأشياء الثمينة، جيبين جانبيين، ومقصورة رئيسية\nقماش Oxford قوي مقاوم للماء والتمزق\nحمالات مبطنة مريحة + ظهر شبك بتهوية\nمساحة كبيرة للكتب، الدفاتر، التابلت، وأغراض الجيم\nأحزمة جانبية قابلة للتعديل\nالوزن: 700 غرام",
+    "en": "6 pockets: front, top flap, hidden back pocket for valuables, two side pockets and a main compartment\nStrong water- and tear-resistant Oxford fabric\nPadded straps + breathable mesh back\nPlenty of room for books, notebooks, a tablet and gym gear\nAdjustable side straps\nWeight: 700 g"
+  },
+  "variants": [
+    ["أسود", "Black", "#141414", 8, ["black", "lifestyle-black"]],
+    ["زهري", "Pink", "#D9A3A8", 3, ["pink", "lifestyle-pink"]],
+    ["رمادي", "Grey", "#5E5F61", 3, ["grey", "lifestyle-grey", "lifestyle-grey-2"]]
+  ],
+  "general": ["pockets"]
+}

@@ -1,0 +1,61 @@
+{
+  "slug": "valletta-nomad-backpack",
+  "sku": "711",
+  "dir": "nomad",
+  "price": 25,
+  "dimensions": "",
+  "name": {
+    "ar": "Valletta Nomad Backpack",
+    "en": "Valletta Nomad Backpack"
+  },
+  "short": {
+    "ar": "حقيبة لابتوب أنيقة بغطاء علوي وجيوب مخفية ضد السرقة، مقاومة للماء",
+    "en": "A sleek flap-top laptop backpack with hidden anti-theft pockets, water-resistant"
+  },
+  "description": {
+    "ar": "رايحة عالجامعة، الشغل أو مسافرة؟ حقيبة فاليتا نوماد مصممة لتحمي أغراضك وتريّحك طول اليوم.\nمصنوعة من قماش أكسفورد مقاوم للماء مع غطاء علوي بلمسة جلدية وقاعدة متينة، وفيها جيوب بسحّابات مخفية لأغراضك المهمة، وجيب مبطّن للابتوب.",
+    "en": "Heading to university, work or travelling? The Valletta Nomad is designed to protect your things and keep you comfortable all day.\nMade of water-resistant Oxford fabric with a leather-look flap top and a sturdy base, it has hidden-zip pockets for your valuables and a padded laptop sleeve."
+  },
+  "features": {
+    "ar": "قماش أكسفورد مقاوم للماء\nجيوب بسحّابات مخفية ضد السرقة\nجيب مبطّن للابتوب\nتقسيمات داخلية منظّمة\nظهر مبطّن يسمح بالتهوية\nحزام خلفي لتثبيتها على مقبض شنطة السفر\nجيبان جانبيان",
+    "en": "Water-resistant Oxford fabric\nHidden anti-theft zip pockets\nPadded laptop sleeve\nOrganised inner compartments\nPadded breathable back panel\nLuggage strap to slide over a suitcase handle\nTwo side pockets"
+  },
+  "variants": [
+    [
+      "أسود",
+      "Black",
+      "#1c1c1c",
+      5,
+      [
+        "black.webp",
+        "black-flat.webp",
+        "lifestyle-black.webp"
+      ]
+    ],
+    [
+      "أوف وايت",
+      "Off-white",
+      "#ece6da",
+      5,
+      [
+        "beige.webp",
+        "lifestyle-beige.webp"
+      ]
+    ],
+    [
+      "زيتي",
+      "Olive",
+      "#4f5a3e",
+      4,
+      [
+        "green.webp",
+        "green-flat.webp",
+        "lifestyle-green.webp"
+      ]
+    ]
+  ],
+  "general": [
+    "inside.webp",
+    "back.webp"
+  ]
+}

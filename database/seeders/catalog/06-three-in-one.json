@@ -1,0 +1,59 @@
+{
+  "slug": "valletta-3-in-1-backpack",
+  "sku": "VL-006",
+  "dir": "three-in-one",
+  "price": 14,
+  "dimensions": "35 × 35 × 16 cm",
+  "name": {
+    "ar": "Valletta 3-in-1 Backpack",
+    "en": "Valletta 3-in-1 Backpack"
+  },
+  "short": {
+    "ar": "شنطة 3 في 1: ظهر، كتف، ويد. من قماش Oxford المقاوم للماء، بتوسع لابتوب حتى 14 إنش، ووزنها 380 غرام بس.",
+    "en": "A 3-in-1 bag: backpack, shoulder bag and handbag. Water-resistant Oxford fabric, fits a laptop up to 14\", and weighs just 380 g."
+  },
+  "description": {
+    "ar": "شنطة Valletta العملية هي اختيارك المثالي لكل يوم. تصميم عصري بيجمع بين الأناقة والعملية، مناسب للجامعة، الشغل، السفر والطلعات اليومية.\n\nالسحاب الرئيسي من ورا، على ظهرك، فما حدا بيقدر يفتحها وانتِ ماشية بالزحمة. وبحمالة الكتف بتتحول من شنطة ظهر لشنطة كتف أو شنطة يد بثواني.",
+    "en": "The practical Valletta bag is your perfect everyday pick. A modern design that blends elegance and practicality, for university, work, travel and everyday outings.\n\nThe main zipper sits at the back, against your body, so no one can open it while you're out in a crowd. With the shoulder strap it switches from a backpack to a shoulder bag or handbag in seconds."
+  },
+  "features": {
+    "ar": "3 استخدامات: شنطة ظهر، شنطة كتف، وشنطة يد\nبتوسع لابتوب حتى 14 إنش، كتب A4، وكل أغراضك اليومية\nتصميم ضد السرقة: فتحة الشنطة الرئيسية من ورا\nقماش Oxford عالي الجودة، مقاوم للماء والخدش وسهل التنظيف\nجلد صناعي ناعم مع إكسسوارات معدنية ذهبية وشرابة أنيقة\nجيب أمامي بسحاب + جيبين جانبيين للمي\nحمالات ظهر مبطنة مريحة + حمالة كتف قابلة للتعديل\nبطانة داخلية متينة\nخفيفة جداً: 380 غرام",
+    "en": "3 ways to carry: backpack, shoulder bag and handbag\nFits a laptop up to 14\", A4 books and all your daily essentials\nAnti-theft design: main opening at the back\nPremium Oxford fabric, water- and scratch-resistant, easy to clean\nSoft faux leather with gold-tone hardware and an elegant tassel\nFront zip pocket + two side bottle pockets\nPadded backpack straps + adjustable shoulder strap\nDurable inner lining\nUltra-light: 380 g"
+  },
+  "variants": [
+    [
+      "أسود",
+      "Black",
+      "#161616",
+      8,
+      [
+        "black",
+        "lifestyle-black"
+      ]
+    ],
+    [
+      "بني",
+      "Brown",
+      "#4E3324",
+      5,
+      [
+        "brown",
+        "lifestyle-brown"
+      ]
+    ],
+    [
+      "بيج (أوف وايت)",
+      "Beige (off-white)",
+      "#E6DDD3",
+      5,
+      [
+        "beige",
+        "lifestyle-beige"
+      ]
+    ]
+  ],
+  "general": [
+    "size",
+    "back-pocket"
+  ]
+}
