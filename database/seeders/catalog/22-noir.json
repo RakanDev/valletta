@@ -1,0 +1,40 @@
+{
+  "slug": "valletta-noir-backpack",
+  "sku": "VL-022",
+  "dir": "noir",
+  "price": 16,
+  "dimensions": "",
+  "name": {
+    "ar": "Valletta Noir Backpack",
+    "en": "Valletta Noir Backpack"
+  },
+  "short": {
+    "ar": "شنطة جلد سودا كلاسيك، سحّابها الرئيسي من ورا ضد السرقة، وبتتحول لشنطة كتف بالحزام الطويل.",
+    "en": "A classic black leather-look backpack with an anti-theft back zip that converts to a shoulder bag."
+  },
+  "description": {
+    "ar": "أسود كلاسيك بيمشي مع كل شي. السحّاب الرئيسي من ورا على ظهرك، فأغراضك بأمان بالزحمة.\nاحمليها على ظهرك أو على كتفك بالحزام الطويل اللي بينفك.",
+    "en": "Classic black that goes with everything. The main zip sits against your back, keeping your things safe in crowds.\nWear it as a backpack or on your shoulder with the detachable long strap."
+  },
+  "features": {
+    "ar": "تصميم ضد السرقة: السحّاب الرئيسي من ورا\n2 في 1: شنطة ظهر أو كتف بالحزام الطويل\nجلد صناعي PU ناعم مع بطانة قماش\nجيوب داخلية للموبايل والمحفظة\nجيب خلفي بسحّاب + جيبين جانبيين\nيد علوية للحمل",
+    "en": "Anti-theft design: main zip on the back\n2-in-1: backpack or shoulder bag with the long strap\nSoft PU faux leather with fabric lining\nInner pockets for phone and wallet\nBack zip pocket + two side pockets\nTop carry handle"
+  },
+  "variants": [
+    [
+      "أسود",
+      "Black",
+      "#151515",
+      2,
+      [
+        "black.webp",
+        "lifestyle-street.webp",
+        "lifestyle-campus.webp"
+      ]
+    ]
+  ],
+  "general": [
+    "views.webp",
+    "inside.webp"
+  ]
+}

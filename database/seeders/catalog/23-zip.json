@@ -1,0 +1,51 @@
+{
+  "slug": "valletta-zip-backpack",
+  "sku": "VL-023",
+  "dir": "zip",
+  "price": 16,
+  "dimensions": "30 × 29 × 12 cm",
+  "name": {
+    "ar": "Valletta Zip Backpack",
+    "en": "Valletta Zip Backpack"
+  },
+  "short": {
+    "ar": "شنطة جلد بسحّاب بالنص وتفاصيل بني غامق، ضد السرقة وبتتحول لشنطة كتف.",
+    "en": "A leather-look backpack with a centre zip and dark-brown trim; anti-theft and converts to a shoulder bag."
+  },
+  "description": {
+    "ar": "تصميم ناعم وراقي بلونين، بيليق عالجينز والسويتر وعلى كل يومك.\nالفتحة الرئيسية من ورا عالظهر، والحزام الطويل بينفك عشان تحمليها على كتفك.",
+    "en": "A soft, refined two-tone design that suits jeans, knitwear and every day.\nThe main opening sits against your back, and the long strap detaches so you can wear it on your shoulder."
+  },
+  "features": {
+    "ar": "تصميم ضد السرقة: الفتحة الرئيسية من ورا\n2 في 1: حمالات ظهر + حزام كتف بينفك\nجلد صناعي PU ناعم\nجيبين جانبيين\nيد علوية للحمل\nإكسسوارات معدنية متينة\nبتوسع تابلت أو آيباد وأغراضك اليومية",
+    "en": "Anti-theft: main opening on the back\n2-in-1: backpack straps + detachable shoulder strap\nSoft PU faux leather\nTwo side pockets\nTop carry handle\nSturdy metal hardware\nFits a tablet or iPad and your everyday things"
+  },
+  "variants": [
+    [
+      "أبيض مع بني",
+      "White with brown",
+      "#ECEAE6",
+      4,
+      [
+        "white.webp",
+        "white-flatlay.webp",
+        "lifestyle-white.webp"
+      ]
+    ],
+    [
+      "بني",
+      "Brown",
+      "#A0612F",
+      2,
+      [
+        "brown.webp",
+        "lifestyle-brown.webp"
+      ]
+    ]
+  ],
+  "general": [
+    "strap.webp",
+    "details.webp",
+    "size.webp"
+  ]
+}

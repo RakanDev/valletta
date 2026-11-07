@@ -1,0 +1,41 @@
+{
+  "slug": "valletta-denim-backpack",
+  "sku": "VL-025",
+  "dir": "denim",
+  "price": 16,
+  "dimensions": "45 × 35 × 6 cm",
+  "name": {
+    "ar": "Valletta Denim Backpack",
+    "en": "Valletta Denim Backpack"
+  },
+  "short": {
+    "ar": "شنطة جينز كاجوال بتفاصيل جيب الجينز الكلاسيكي، خفيفة ومريحة للجامعة والمشاوير.",
+    "en": "A casual denim backpack with a classic jeans-pocket detail; light and comfy for campus and errands."
+  },
+  "description": {
+    "ar": "جينز… بس على شكل شنطة. ستايل كاجوال مريح بخياطة برتقالية وجيب جينز صغير.\nخفيفة (حوالي 530 غرام) بظهر شبك بتهوية وحمالات مريحة.",
+    "en": "Denim, in backpack form. Relaxed casual style with orange stitching and a little jeans pocket.\nLight (about 530 g) with a breathable mesh back and comfy straps."
+  },
+  "features": {
+    "ar": "قماش جينز متين بخياطة برتقالية\nسحّاب أمامي طويل + جيب جينز صغير\nجيبين جانبيين بشد مطاطي\nظهر شبك بتهوية + حمالات منحنية مريحة\nيد علوية ناعمة\nالوزن: حوالي 530 غرام",
+    "en": "Durable denim with orange stitching\nLong front zip + small jeans pocket\nTwo side pockets with elastic drawcords\nBreathable mesh back + curved comfy straps\nSoft top handle\nWeight: about 530 g"
+  },
+  "variants": [
+    [
+      "أزرق جينز",
+      "Denim Blue",
+      "#3F6FA8",
+      5,
+      [
+        "blue.webp",
+        "front.webp",
+        "lifestyle-bike.webp",
+        "lifestyle-flatlay.webp"
+      ]
+    ]
+  ],
+  "general": [
+    "top.webp",
+    "details.webp"
+  ]
+}

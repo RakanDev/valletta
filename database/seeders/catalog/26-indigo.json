@@ -1,0 +1,42 @@
+{
+  "slug": "valletta-indigo-backpack",
+  "sku": "VL-026",
+  "dir": "indigo",
+  "price": 14,
+  "dimensions": "32 × 30 × 14 cm",
+  "name": {
+    "ar": "Valletta Indigo Backpack",
+    "en": "Valletta Indigo Backpack"
+  },
+  "short": {
+    "ar": "شنطة بلون الجينز المغسول، شنطة ظهر أو كتف، بجيوب كثيرة لكل أغراضك.",
+    "en": "A washed-denim-look backpack that converts to a shoulder bag, with plenty of pockets."
+  },
+  "description": {
+    "ar": "ستايل كاجوال وعفوي بلون الجينز المغسول، بيليق على كل ألوانك.\nاحمليها على ظهرك أو على كتفك بالحزام الطويل، وبتوسع آيباد ودفتر A4 وأغراضك اليومية.",
+    "en": "Relaxed, effortless style in a washed-denim shade that goes with every colour you wear.\nWear it on your back or shoulder with the long strap; fits an iPad, an A4 notebook and your everyday things."
+  },
+  "features": {
+    "ar": "2 في 1: شنطة ظهر أو كتف بالحزام الطويل\nجيب أمامي بغطاء وكبسة مغناطيس\nجيب أمامي علوي بسحّاب\nمن جوا: مقصورة رئيسية + جيب بسحّاب + جيب جانبي\nجيبين جانبيين من برا\nبتوسع آيباد ودفتر A4 وشمسية وباور بانك",
+    "en": "2-in-1: backpack or shoulder bag with the long strap\nFront pocket with magnetic flap\nUpper front zip pocket\nInside: main compartment + zip pocket + side pocket\nTwo outer side pockets\nFits an iPad, A4 notebook, umbrella and power bank"
+  },
+  "variants": [
+    [
+      "أزرق جينز مغسول",
+      "Washed Denim",
+      "#56708F",
+      5,
+      [
+        "blue.webp",
+        "lifestyle-rainbow.webp",
+        "lifestyle-street.webp"
+      ]
+    ]
+  ],
+  "general": [
+    "strap.webp",
+    "inside.webp",
+    "items.webp",
+    "size.webp"
+  ]
+}

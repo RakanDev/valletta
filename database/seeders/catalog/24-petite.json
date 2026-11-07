@@ -1,0 +1,42 @@
+{
+  "slug": "valletta-petite-backpack",
+  "sku": "VL-024",
+  "dir": "petite",
+  "price": 22,
+  "dimensions": "26 × 23 × 10 cm",
+  "name": {
+    "ar": "Valletta Petite Backpack",
+    "en": "Valletta Petite Backpack"
+  },
+  "short": {
+    "ar": "شنطة ميني بغطاء أنيق وجلد ناعم بلون الكاميل، على الظهر أو على الكتف.",
+    "en": "A mini flap backpack in soft camel faux leather, worn on the back or the shoulder."
+  },
+  "description": {
+    "ar": "صغيرة بالحجم، كبيرة بالستايل. شنطة ميني بغطاء أمامي أنيق بتليق للطلعات والسفر والمشاوير اليومية.\nبتوسع موبايلك ومحفظتك ومكياجك ودفتر صغير.",
+    "en": "Small in size, big on style. A mini backpack with an elegant front flap for outings, travel and everyday errands.\nFits your phone, wallet, make-up and a small notebook."
+  },
+  "features": {
+    "ar": "غطاء أمامي أنيق\nجيبين أماميين بسحّاب على الجنب\nمن جوا: جيبين بسحّاب + جيب مفتوح\nحمالات ظهر + حزام كتف\nجلد صناعي PU بملمس ناعم\nشنطة ميني: ما بتوسع لابتوب",
+    "en": "Elegant front flap\nTwo front side zip pockets\nInside: two zip pockets + an open pocket\nBackpack straps + shoulder strap\nSoft-touch PU faux leather\nMini size: does not fit a laptop"
+  },
+  "variants": [
+    [
+      "كاميل",
+      "Camel",
+      "#C08A4A",
+      6,
+      [
+        "camel.webp",
+        "lifestyle-street.webp",
+        "lifestyle-campus.webp",
+        "lifestyle-airport.webp",
+        "lifestyle-cafe.webp"
+      ]
+    ]
+  ],
+  "general": [
+    "inside.webp",
+    "size.webp"
+  ]
+}

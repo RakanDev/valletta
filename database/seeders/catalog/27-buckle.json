@@ -1,0 +1,50 @@
+{
+  "slug": "valletta-buckle-backpack",
+  "sku": "VL-027",
+  "dir": "buckle",
+  "price": 22,
+  "dimensions": "39 × 27 × 16 cm",
+  "name": {
+    "ar": "Valletta Buckle Backpack",
+    "en": "Valletta Buckle Backpack"
+  },
+  "short": {
+    "ar": "شنطة فينتج بغطاء وإبزيم فضي ورباط شد، خفيفة جداً (330 غرام).",
+    "en": "A vintage-style backpack with a flap, silver buckle and drawstring; very light (330 g)."
+  },
+  "description": {
+    "ar": "لمسة فينتج كلاسيكية ما بتغلط. غطاء بإبزيم معدني فضي ورباط شد من جوا، وجيب أمامي كبير بسحّاب.\nخفيفة كثير، وبتوسع كتب A4 ودفاتر وأغراضك اليومية.",
+    "en": "A timeless vintage touch. A flap with a silver metal buckle, an inner drawstring and a large front zip pocket.\nVery light, with room for A4 books, notebooks and your everyday things."
+  },
+  "features": {
+    "ar": "جلد صناعي PU ناعم\nغطاء بإبزيم معدني + رباط شد\nجيب أمامي كبير بسحّاب\nجيب داخلي للموبايل\nجيب خلفي بسحّاب\nمقاومة للماء الخفيف\nالوزن: 330 غرام",
+    "en": "Soft PU faux leather\nFlap with metal buckle + drawstring\nLarge front zip pocket\nInner phone pocket\nBack zip pocket\nSplash-resistant\nWeight: 330 g"
+  },
+  "variants": [
+    [
+      "بني فينتج",
+      "Vintage Brown",
+      "#8A4B22",
+      9,
+      [
+        "brown.webp",
+        "lifestyle-table.webp",
+        "lifestyle-cafe.webp",
+        "lifestyle-campus.webp"
+      ]
+    ],
+    [
+      "أسود",
+      "Black",
+      "#151515",
+      8,
+      [
+        "black.webp"
+      ]
+    ]
+  ],
+  "general": [
+    "back.webp",
+    "size.webp"
+  ]
+}

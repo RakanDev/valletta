@@ -1,0 +1,49 @@
+{
+  "slug": "valletta-mocha-backpack",
+  "sku": "VL-021",
+  "dir": "mocha",
+  "price": 18,
+  "dimensions": "43 × 33 × 10 cm",
+  "name": {
+    "ar": "Valletta Mocha Backpack",
+    "en": "Valletta Mocha Backpack"
+  },
+  "short": {
+    "ar": "شنطة جلد ناعمة بتصميم بسيط وأنيق، بيدين للحمل وجيب أمامي بغطاء، بتوسع لابتوب لحد 14 إنش.",
+    "en": "A sleek soft-leather backpack with top handles and a buckled front pocket. Fits a laptop up to 14\"."
+  },
+  "description": {
+    "ar": "شنطة بتصميم مينيمال راقي بتكمّل أي لوك، من الجامعة للمول.\nجلد صناعي ناعم، يدين للحمل وحمالات ظهر، ومساحة بتوسع لابتوبك وكتبك وأغراضك اليومية.",
+    "en": "A refined minimal backpack that completes any look, from campus to the mall.\nSoft faux leather, top handles plus backpack straps, and room for your laptop, books and everyday things."
+  },
+  "features": {
+    "ar": "جلد صناعي PU ناعم\nجيب أمامي بغطاء وإبزيم\nمقصورة رئيسية واسعة + جيب داخلي بسحّاب\nجيبين جانبيين\nبتوسع لابتوب لحد 14 إنش\nيدين علويتين + حمالات ظهر",
+    "en": "Soft PU faux leather\nFront pocket with buckled flap\nSpacious main compartment + inner zip pocket\nTwo side pockets\nFits a laptop up to 14\"\nTop handles + backpack straps"
+  },
+  "variants": [
+    [
+      "بني موكا",
+      "Mocha Brown",
+      "#5A3A2C",
+      8,
+      [
+        "brown.webp",
+        "lifestyle-brown.webp",
+        "lifestyle-mall.webp"
+      ]
+    ],
+    [
+      "أسود",
+      "Black",
+      "#151515",
+      1,
+      [
+        "black.webp"
+      ]
+    ]
+  ],
+  "general": [
+    "inside.webp",
+    "size.webp"
+  ]
+}
