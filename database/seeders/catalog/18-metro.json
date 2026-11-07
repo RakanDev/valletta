@@ -2,7 +2,7 @@
   "slug": "valletta-metro-backpack",
   "sku": "T-B3184",
   "dir": "metro",
-  "price": 25,
+  "price": 28,
   "dimensions": "28 × 19 × 44 cm",
   "name": {
     "ar": "TIGERNU Metro Backpack",
@@ -28,8 +28,7 @@
       4,
       [
         "black.webp",
-        "lifestyle-black.webp",
-        "waterproof.webp"
+        "lifestyle-black.webp"
       ]
     ],
     [
@@ -54,6 +53,7 @@
     ]
   ],
   "general": [
+    "waterproof.webp",
     "inside.webp",
     "packed.webp"
   ]

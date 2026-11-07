@@ -3,10 +3,10 @@
     $swatches = $product->variants;
 @endphp
 <a href="{{ route('product', $product) }}" class="group block">
-    <div class="relative aspect-square overflow-hidden rounded-2xl bg-white">
+    <div class="relative aspect-[4/5] overflow-hidden rounded-2xl bg-white">
         @if ($product->coverUrl())
             <img src="{{ $product->coverUrl() }}" alt="{{ $product->tr('name') }}" loading="lazy"
-                 class="h-full w-full object-contain p-3 transition duration-500 group-hover:scale-105 {{ $soldOut ? 'opacity-50' : '' }}">
+                 class="h-full w-full object-cover transition duration-500 group-hover:scale-105 {{ $soldOut ? 'opacity-50' : '' }}">
         @endif
         @if ($soldOut)
             <span class="absolute top-3 start-3 rounded-full bg-ink px-3 py-1 text-xs font-bold text-cream">{{ __('product.sold_out') }}</span>

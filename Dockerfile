@@ -11,7 +11,7 @@ RUN npm run build
 FROM serversideup/php:8.3-fpm-nginx
 
 USER root
-RUN install-php-extensions intl
+RUN install-php-extensions intl gd
 COPY --chmod=755 docker/60-seed.sh /etc/entrypoint.d/60-seed.sh
 USER www-data
 

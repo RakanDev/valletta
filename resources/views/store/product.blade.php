@@ -35,14 +35,14 @@
     <div class="grid gap-10 md:grid-cols-2">
         {{-- Gallery --}}
         <div>
-            <div class="aspect-square overflow-hidden rounded-3xl bg-white">
+            <div class="aspect-[4/5] overflow-hidden rounded-3xl bg-white">
                 <template x-for="(src, i) in images" :key="src">
-                    <img x-show="active === i" :src="src" alt="{{ $product->tr('name') }}" class="h-full w-full object-contain">
+                    <img x-show="active === i" :src="src" alt="{{ $product->tr('name') }}" class="h-full w-full object-cover">
                 </template>
             </div>
             <div class="mt-3 flex gap-2 overflow-x-auto pb-1">
                 <template x-for="(src, i) in images" :key="'t'+src">
-                    <button type="button" @click="active = i" class="h-16 w-16 sm:h-20 sm:w-20 shrink-0 overflow-hidden rounded-xl bg-white border-2 transition"
+                    <button type="button" @click="active = i" class="h-20 w-16 sm:h-[100px] sm:w-20 shrink-0 overflow-hidden rounded-xl bg-white border-2 transition"
                             :class="active === i ? 'border-gold' : 'border-transparent opacity-70 hover:opacity-100'" :aria-label="@js(__('product.photo')) + ' ' + (i + 1)">
                         <img :src="src" alt="" class="h-full w-full object-cover">
                     </button>

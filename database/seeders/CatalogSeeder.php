@@ -82,7 +82,7 @@ class CatalogSeeder extends Seeder
                 'slug' => 'valletta-cork-backpack',
                 'sku' => 'VL-001',
                 'dir' => 'cork',
-                'price' => 15,
+                'price' => 16,
                 'dimensions' => '29 × 28 × 15 cm',
                 'name' => ['ar' => 'Valletta Cork Backpack', 'en' => 'Valletta Cork Backpack'],
                 'short' => [
@@ -100,16 +100,16 @@ class CatalogSeeder extends Seeder
                 'variants' => [
                     ['فسيفساء متوسطية', 'Mediterranean Mosaic', '#2F5D62', 11, ['mosaic', 'lifestyle-mosaic']],
                     ['ماندالا سداسية', 'Honeycomb Mandala', '#B5562E', 7, ['honeycomb']],
-                    ['حديقة الفراشات', 'Butterfly Garden', '#A23B3B', 4, ['butterfly', 'size']],
+                    ['حديقة الفراشات', 'Butterfly Garden', '#A23B3B', 4, ['butterfly']],
                     ['بيزلي كلاسيك', 'Baroque Paisley', '#3D3324', 4, ['paisley']],
                 ],
-                'general' => ['inside', 'back'],
+                'general' => ['size', 'inside', 'back'],
             ],
             [
                 'slug' => 'valletta-essential-backpack',
                 'sku' => '01350',
                 'dir' => 'essential',
-                'price' => 16,
+                'price' => 18,
                 'dimensions' => '35 × 34 × 16 cm',
                 'name' => ['ar' => 'Valletta Essential Backpack', 'en' => 'Valletta Essential Backpack'],
                 'short' => [
@@ -125,11 +125,11 @@ class CatalogSeeder extends Seeder
                     'en' => "Padded laptop compartment, fits up to 14\"\nDetachable long strap: backpack, shoulder or crossbody\nEasy-access side phone pocket\nInner zip pocket for valuables + organizer slot\nSpacious main compartment for books and notebooks\nPremium PU leather, scratch- and splash-resistant\nDurable polyester lining and elegant leather tassel\nWeight: 0.6 kg",
                 ],
                 'variants' => [
-                    ['بيج مع بني', 'Beige with brown', '#EDE3D2', 15, ['beige', 'lifestyle-beige', 'size', 'side']],
+                    ['بيج مع بني', 'Beige with brown', '#EDE3D2', 15, ['beige', 'lifestyle-beige']],
                     ['بني', 'Brown', '#5A3A24', 5, ['brown', 'lifestyle-brown']],
                     ['أسود', 'Black', '#1C1C1C', 4, ['black', 'lifestyle-black']],
                 ],
-                'general' => ['back', 'inside'],
+                'general' => ['size', 'side', 'back', 'inside'],
             ],
             [
                 'slug' => 'valletta-mini-backpack',
@@ -153,9 +153,9 @@ class CatalogSeeder extends Seeder
                 'variants' => [
                     ['أسود كلاسيك', 'Classic Black', '#151515', 5, ['black', 'lifestyle-black']],
                     ['بيج', 'Beige', '#CFC6BA', 3, ['beige', 'lifestyle-beige']],
-                    ['أخضر زمردي', 'Emerald Green', '#1F5A3C', 3, ['green', 'lifestyle-green', 'views']],
+                    ['أخضر زمردي', 'Emerald Green', '#1F5A3C', 3, ['green', 'lifestyle-green']],
                 ],
-                'general' => [],
+                'general' => ['views'],
             ],
             [
                 'slug' => 'valletta-classic-backpack',
@@ -177,12 +177,12 @@ class CatalogSeeder extends Seeder
                     'en' => "Premium water-resistant PU leather\nSoft polyester lining\nStrong, secure zippers\nSpacious main compartment, front zip pocket, two side pockets\nHidden inner zip pocket for your valuables\nErgonomic curved back for shoulder comfort\nFits a tablet or iPad up to 11\", books and notebooks\nCare: do not wash, wipe with a damp cloth",
                 ],
                 'variants' => [
-                    ['كاميل', 'Camel', '#A8642E', 9, ['camel', 'size']],
+                    ['كاميل', 'Camel', '#A8642E', 9, ['camel']],
                     ['أسود', 'Black', '#161616', 7, ['black']],
                     ['بيج', 'Beige', '#E3DBCF', 4, ['beige']],
                     ['رمادي', 'Grey', '#6E6E70', 2, ['grey']],
                 ],
-                'general' => ['inside'],
+                'general' => ['size', 'inside'],
             ],
         ];
     }
