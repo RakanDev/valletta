@@ -4,7 +4,10 @@
   "dir": "bella",
   "price": 16,
   "dimensions": "34 × 32 × 17 cm",
-  "name": {"ar": "Valletta Bella Backpack", "en": "Valletta Bella Backpack"},
+  "name": {
+    "ar": "Valletta Bella Backpack",
+    "en": "Valletta Bella Backpack"
+  },
   "short": {
     "ar": "شنطة ظهر كلاسيك بغطاء وسحابات فضية، مصممة للبنت اللي بدها كل شي بمكان واحد. جلد PU طري ومقاوم للمي.",
     "en": "A classic flap backpack with silver zippers, designed for the girl who wants everything in one place. Soft, water-resistant PU leather."
@@ -18,8 +21,33 @@
     "en": "Lots of pockets: zip on the flap + two front zip pockets + back zip pocket\nTwo elastic side pockets\nInside: phone pocket + zip pocket + a large compartment for books or a tablet\nPremium PU leather, soft, scratch- and splash-resistant\nAdjustable straps + top carry handle\nLight and durable for everyday use"
   },
   "variants": [
-    ["بني فينتج", "Vintage Brown", "#9A4E22", 5, ["brown", "lifestyle-brown", "brown-angle"]],
-    ["أسود", "Black", "#141414", 5, ["black", "lifestyle-black", "black-2"]]
+    [
+      "بني فينتج",
+      "Vintage Brown",
+      "#9A4E22",
+      5,
+      [
+        "brown",
+        "lifestyle-brown",
+        "brown-angle"
+      ]
+    ],
+    [
+      "أسود",
+      "Black",
+      "#141414",
+      5,
+      [
+        "black",
+        "lifestyle-black",
+        "black-2"
+      ]
+    ]
   ],
-  "general": ["top", "back"]
+  "general": [
+    "top",
+    "back",
+    "inside.webp",
+    "size.webp"
+  ]
 }

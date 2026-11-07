@@ -28,6 +28,7 @@ class ImageNormalizer
         }
         imagepalettetotruecolor($src);
         $src = self::trimBars($src);
+        self::eraseHairlines($src);
 
         // Studio shot on a plain background: cut away the empty margins and
         // place the bag at the same size and position as every other photo.
@@ -179,6 +180,55 @@ class ImageNormalizer
         $crop = imagecrop($img, ['x' => $left, 'y' => $top, 'width' => $right - $left + 1, 'height' => $bottom - $top + 1]);
 
         return $crop ? [$crop, $bg] : null;
+    }
+
+    /**
+     * Supplier photos often frame the product with thin dark lines that do not
+     * reach the image edges. Paint such lines (top/bottom quarter, at most a
+     * few pixels thick) with the colour just outside them.
+     */
+    private static function eraseHairlines($img): void
+    {
+        $w = imagesx($img);
+        $h = imagesy($img);
+        $darkShare = function (int $y) use ($img, $w): float {
+            $d = 0;
+            $n = 0;
+            for ($x = 0; $x < $w; $x += 3) {
+                $c = imagecolorat($img, $x, $y);
+                $n++;
+                if ((($c >> 16) & 255) + (($c >> 8) & 255) + ($c & 255) < 300) {
+                    $d++;
+                }
+            }
+
+            return $d / max(1, $n);
+        };
+
+        $zones = [[0, (int) ($h * 0.25)], [(int) ($h * 0.75), $h]];
+        foreach ($zones as [$from, $to]) {
+            $y = $from;
+            while ($y < $to) {
+                if ($darkShare($y) < 0.55) {
+                    $y++;
+                    continue;
+                }
+                $end = $y;
+                while ($end + 1 < $to && $darkShare($end + 1) >= 0.55) {
+                    $end++;
+                }
+                $thick = $end - $y + 1;
+                $above = max(0, $y - 3);
+                $below = min($h - 1, $end + 3);
+                // Thin line with light space on both sides -> erase it.
+                if ($thick <= 8 && $darkShare($above) < 0.1 && $darkShare($below) < 0.1) {
+                    for ($yy = $y; $yy <= $end; $yy++) {
+                        imagecopy($img, $img, 0, $yy, 0, $above, $w, 1);
+                    }
+                }
+                $y = $end + 1;
+            }
+        }
     }
 
     /** Remove solid black bars (screenshot letterboxing) from the top and bottom. */

@@ -4,7 +4,10 @@
   "dir": "city",
   "price": 14,
   "dimensions": "31 × 25 × 13 cm",
-  "name": {"ar": "Valletta City Backpack", "en": "Valletta City Backpack"},
+  "name": {
+    "ar": "Valletta City Backpack",
+    "en": "Valletta City Backpack"
+  },
   "short": {
     "ar": "شنطة ظهر صغيرة وخفيفة من النايلون المقاوم للماء، مع تعليقة دبدوب هدية 🎁",
     "en": "A light, compact backpack in water-resistant nylon, with a free teddy bear charm 🎁"
@@ -18,9 +21,40 @@
     "en": "Free teddy bear charm with every bag\nPremium water-resistant nylon with polyester lining\nFits a tablet up to 11\" and A4 books (not a laptop)\nCapacity: under 22 L, roomy without the bulk\nPadded straps and a soft back for all-day comfort\nDurable double zipper"
   },
   "variants": [
-    ["أسود", "Black", "#161616", 6, ["black", "lifestyle-black"]],
-    ["خمري", "Burgundy", "#7A1B2D", 4, ["burgundy", "lifestyle-burgundy"]],
-    ["رمادي", "Grey", "#9C9C98", 4, ["grey", "lifestyle-grey"]]
+    [
+      "أسود",
+      "Black",
+      "#161616",
+      6,
+      [
+        "black",
+        "lifestyle-black"
+      ]
+    ],
+    [
+      "خمري",
+      "Burgundy",
+      "#7A1B2D",
+      4,
+      [
+        "burgundy",
+        "lifestyle-burgundy"
+      ]
+    ],
+    [
+      "رمادي",
+      "Grey",
+      "#9C9C98",
+      4,
+      [
+        "grey",
+        "lifestyle-grey"
+      ]
+    ]
   ],
-  "general": ["inside-full", "inside"]
+  "general": [
+    "inside-full",
+    "inside",
+    "size.webp"
+  ]
 }

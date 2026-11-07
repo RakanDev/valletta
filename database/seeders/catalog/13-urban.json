@@ -4,7 +4,10 @@
   "dir": "urban",
   "price": 18,
   "dimensions": "41 × 32 × 13 cm",
-  "name": {"ar": "Valletta Urban Backpack", "en": "Valletta Urban Backpack"},
+  "name": {
+    "ar": "Valletta Urban Backpack",
+    "en": "Valletta Urban Backpack"
+  },
   "short": {
     "ar": "شنطة ظهر عملية بمساحة كبيرة و6 جيوب، للجامعة والسفر اليومي. خفيفة، مريحة، ومقاومة للماء.",
     "en": "A roomy, practical backpack with 6 pockets for university and everyday travel. Light, comfortable and water-resistant."
@@ -18,9 +21,40 @@
     "en": "6 pockets: front, top flap, hidden back pocket for valuables, two side pockets and a main compartment\nStrong water- and tear-resistant Oxford fabric\nPadded straps + breathable mesh back\nPlenty of room for books, notebooks, a tablet and gym gear\nAdjustable side straps\nWeight: 700 g"
   },
   "variants": [
-    ["أسود", "Black", "#141414", 8, ["black", "lifestyle-black"]],
-    ["زهري", "Pink", "#D9A3A8", 3, ["pink", "lifestyle-pink"]],
-    ["رمادي", "Grey", "#5E5F61", 3, ["grey", "lifestyle-grey", "lifestyle-grey-2"]]
+    [
+      "أسود",
+      "Black",
+      "#141414",
+      8,
+      [
+        "black",
+        "lifestyle-black",
+        "black-views.webp"
+      ]
+    ],
+    [
+      "زهري",
+      "Pink",
+      "#D9A3A8",
+      3,
+      [
+        "pink",
+        "lifestyle-pink"
+      ]
+    ],
+    [
+      "رمادي",
+      "Grey",
+      "#5E5F61",
+      3,
+      [
+        "grey",
+        "lifestyle-grey",
+        "lifestyle-grey-2"
+      ]
+    ]
   ],
-  "general": ["pockets"]
+  "general": [
+    "pockets"
+  ]
 }
