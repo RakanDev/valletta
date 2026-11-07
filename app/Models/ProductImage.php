@@ -50,8 +50,8 @@ class ProductImage extends Model
                 return false;
             }
 
-            $webp = ImageNormalizer::toWebp($disk->get($this->path));
-            $newPath = preg_replace('/\.[A-Za-z0-9]+$/', '', $this->path).'-'.Str::lower(Str::random(6)).'.webp';
+            $webp = ImageNormalizer::toWebp($this->originalBytes() ?? $disk->get($this->path));
+            $newPath = $this->basePath().'_'.Str::lower(Str::random(8)).'.webp';
 
             $disk->put($newPath, $webp, ['visibility' => 'public', 'ContentType' => 'image/webp']);
             $disk->delete($this->path);
@@ -74,6 +74,33 @@ class ProductImage extends Model
     public function variant(): BelongsTo
     {
         return $this->belongsTo(ProductVariant::class, 'product_variant_id');
+    }
+
+    /**
+     * Catalog photos ship with the app (database/seeders/images). Converting
+     * from that original gives a cleaner result than re-converting a
+     * converted file. Photos uploaded in the admin have no original here.
+     */
+    private function originalBytes(): ?string
+    {
+        if (! preg_match('#^products/([^/]+)/(.+)$#', $this->basePath(), $m)) {
+            return null;
+        }
+        // Older converted files carry a "-xxxxxx" suffix; try with and without it.
+        foreach ([$m[2], preg_replace('/-[a-z0-9]{6}$/', '', $m[2])] as $name) {
+            $file = database_path("seeders/images/{$m[1]}/{$name}.webp");
+            if (is_file($file)) {
+                return file_get_contents($file);
+            }
+        }
+
+        return null;
+    }
+
+    /** Path without extension and without the "_xxxxxxxx" version suffix. */
+    private function basePath(): string
+    {
+        return preg_replace('/(_[a-z0-9]{8})?\.[A-Za-z0-9]+$/', '', $this->path);
     }
 
     public function url(): string
